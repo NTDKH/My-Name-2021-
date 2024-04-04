@@ -1,0 +1,1355 @@
+﻿1
+00:00:35,035 --> 00:00:36,119
+What's your name?
+
+2
+00:00:43,793 --> 00:00:45,545
+What's your real name?
+
+3
+00:01:04,731 --> 00:01:05,815
+Relay my message.
+
+4
+00:01:40,683 --> 00:01:42,060
+I don't need a lawyer.
+
+5
+00:01:45,730 --> 00:01:47,232
+I'm not here to represent you.
+
+6
+00:01:51,277 --> 00:01:53,363
+Mr. Choi asked me to relay a message.
+
+7
+00:01:57,242 --> 00:01:59,369
+I will not let you go to prison.
+
+8
+00:02:03,665 --> 00:02:04,707
+Come to me.
+
+9
+00:02:15,218 --> 00:02:16,386
+You were hurt badly.
+
+10
+00:02:23,351 --> 00:02:25,228
+My client needs medical attention.
+
+11
+00:02:25,311 --> 00:02:26,187
+Medical attention?
+
+12
+00:02:27,105 --> 00:02:29,899
+Our captain is still unconscious.
+
+13
+00:02:30,567 --> 00:02:32,318
+Should I submit a formal complaint?
+
+14
+00:02:32,402 --> 00:02:34,696
+Worry about yourself first
+before your client.
+
+15
+00:02:35,530 --> 00:02:37,365
+You should cut your losses.
+
+16
+00:02:38,658 --> 00:02:42,203
+Bring me documents on Dongcheon,
+and we'll request mitigation.
+
+17
+00:02:42,287 --> 00:02:45,290
+The reporters seem to be curious
+about what happened.
+
+18
+00:02:47,000 --> 00:02:50,670
+If we say there was a mole
+Dongcheon planted within Narcotics,
+
+19
+00:02:51,588 --> 00:02:52,922
+that would be breaking news.
+
+20
+00:03:38,635 --> 00:03:40,178
+She left for the hospital.
+
+21
+00:03:46,059 --> 00:03:46,893
+Bring her.
+
+22
+00:03:48,311 --> 00:03:49,270
+-Yes, sir.
+-Yes, sir.
+
+23
+00:04:46,494 --> 00:04:53,459
+WARD 15
+
+24
+00:04:58,256 --> 00:04:59,090
+Captain?
+
+25
+00:05:00,091 --> 00:05:01,050
+Pildo.
+
+26
+00:05:04,262 --> 00:05:06,014
+I'm at the hospital. I'll come right over.
+
+27
+00:05:06,973 --> 00:05:08,808
+-Is he awake?
+-Yes.
+
+28
+00:05:08,891 --> 00:05:09,976
+-I'll be right back.
+-Sure.
+
+29
+00:05:10,059 --> 00:05:10,935
+Okay.
+
+30
+00:05:19,402 --> 00:05:20,445
+Please, bear it.
+
+31
+00:05:20,528 --> 00:05:21,779
+Miss.
+
+32
+00:05:29,871 --> 00:05:30,872
+Help me.
+
+33
+00:05:52,393 --> 00:05:53,770
+Please cut.
+
+34
+00:05:54,562 --> 00:05:55,438
+Okay.
+
+35
+00:06:02,028 --> 00:06:03,529
+Get me the dressing band.
+
+36
+00:06:04,614 --> 00:06:05,698
+The band.
+
+37
+00:06:06,282 --> 00:06:07,575
+Sorry. I'll go get it.
+
+38
+00:06:29,138 --> 00:06:31,015
+Hello? Yes, professor.
+
+39
+00:06:31,099 --> 00:06:33,267
+I checked on him this morning.
+
+40
+00:06:33,351 --> 00:06:35,895
+He looked really bad.
+
+41
+00:06:35,978 --> 00:06:37,105
+He was very septic,
+
+42
+00:06:37,188 --> 00:06:42,193
+had a high fever, and his CRP level was
+between five and ten.
+
+43
+00:06:42,276 --> 00:06:43,861
+So we got a CT scan.
+
+44
+00:06:43,945 --> 00:06:46,864
+I took a look at it,
+and it looked very bad.
+
+45
+00:06:46,948 --> 00:06:50,368
+As you said it could be endocytosis,
+I thought it may be better
+
+46
+00:06:50,451 --> 00:06:51,661
+to just operate instead.
+
+47
+00:06:51,744 --> 00:06:54,664
+So I scheduled it
+for the afternoon surgery.
+
+48
+00:06:55,832 --> 00:06:56,666
+Captain.
+
+49
+00:06:57,834 --> 00:06:58,793
+Are you all right?
+
+50
+00:07:00,795 --> 00:07:01,629
+Hey.
+
+51
+00:07:02,630 --> 00:07:03,965
+I almost died.
+
+52
+00:07:05,508 --> 00:07:07,844
+-Do you want some water?
+-I'm all right.
+
+53
+00:07:11,931 --> 00:07:13,057
+Detective Oh--
+
+54
+00:07:13,141 --> 00:07:14,267
+We caught her.
+
+55
+00:07:15,017 --> 00:07:17,478
+She's the one who stabbed you, right?
+She's in the hospital--
+
+56
+00:07:17,562 --> 00:07:18,479
+Pildo.
+
+57
+00:07:20,648 --> 00:07:21,524
+Yes?
+
+58
+00:07:28,281 --> 00:07:29,115
+You know…
+
+59
+00:07:31,159 --> 00:07:32,452
+Yoon Donghoon, don't you?
+
+60
+00:07:33,703 --> 00:07:35,121
+Yoon Donghoon of Dongcheon
+
+61
+00:07:36,289 --> 00:07:37,915
+who was murdered five years ago?
+
+62
+00:07:37,999 --> 00:07:38,833
+Yes.
+
+63
+00:07:39,500 --> 00:07:40,418
+Detective Oh is…
+
+64
+00:07:42,795 --> 00:07:44,464
+Yoon Donghoon's daughter.
+
+65
+00:07:59,228 --> 00:08:02,190
+Yoon Donghoon's real name was Song Joonsu.
+
+66
+00:08:04,692 --> 00:08:05,526
+Wait.
+
+67
+00:08:06,652 --> 00:08:09,572
+Do you mean
+the Narcotics detective that died…
+
+68
+00:08:13,159 --> 00:08:14,619
+He was undercover.
+
+69
+00:08:17,455 --> 00:08:19,457
+I sent him into Dongcheon.
+
+70
+00:08:24,754 --> 00:08:28,132
+I think it would be best
+and scheduled it for this afternoon.
+
+71
+00:08:28,216 --> 00:08:31,093
+So he'll be going into surgery
+this afternoon.
+
+72
+00:08:31,177 --> 00:08:32,345
+Yes.
+
+73
+00:08:33,513 --> 00:08:35,806
+You don't need to worry.
+
+74
+00:08:35,890 --> 00:08:37,475
+Well, just in case…
+
+75
+00:08:37,558 --> 00:08:39,685
+I'm almost done here.
+
+76
+00:08:39,769 --> 00:08:42,897
+Once I finish, I'll check on him again.
+
+77
+00:08:43,856 --> 00:08:45,900
+Yes.
+
+78
+00:08:50,404 --> 00:08:52,615
+Jung Taeju is the one who stabbed me.
+
+79
+00:08:54,283 --> 00:08:55,785
+I brought him home last night.
+
+80
+00:08:56,536 --> 00:08:58,746
+He seemed nervous,
+so I offered to stay with him, but…
+
+81
+00:09:00,873 --> 00:09:02,291
+It wasn't your fault.
+
+82
+00:09:05,795 --> 00:09:06,796
+So it was Gangjae.
+
+83
+00:09:07,922 --> 00:09:09,465
+The person you wanted to catch.
+
+84
+00:09:11,801 --> 00:09:14,178
+You're doing this
+because of your father, right?
+
+85
+00:09:16,514 --> 00:09:17,682
+Jiwoo
+
+86
+00:09:18,766 --> 00:09:21,852
+joined her dad's killer to get revenge.
+
+87
+00:09:25,106 --> 00:09:27,066
+Choi Mujin deceived her.
+
+88
+00:09:31,612 --> 00:09:32,822
+If I tell you,
+
+89
+00:09:34,949 --> 00:09:36,367
+would you believe me?
+
+90
+00:09:38,286 --> 00:09:39,120
+Pildo.
+
+91
+00:09:41,872 --> 00:09:43,040
+Thank you for everything.
+
+92
+00:09:52,091 --> 00:09:53,426
+Please finish up.
+
+93
+00:09:53,509 --> 00:09:54,343
+Okay.
+
+94
+00:09:58,556 --> 00:10:00,516
+-Are you done?
+-She'll be out soon.
+
+95
+00:10:00,600 --> 00:10:01,517
+Thank you.
+
+96
+00:10:08,774 --> 00:10:11,235
+Take the side door and go down to B2.
+
+97
+00:10:11,944 --> 00:10:13,321
+My car's there.
+
+98
+00:10:31,547 --> 00:10:32,632
+I'm fine with this.
+
+99
+00:10:33,591 --> 00:10:34,967
+I wanted to beat you anyway.
+
+100
+00:10:57,198 --> 00:10:59,158
+-Hello?
+-Pildo.
+
+101
+00:10:59,867 --> 00:11:01,369
+Hyejin got away.
+
+102
+00:12:18,988 --> 00:12:20,156
+Song Jiwoo!
+
+103
+00:12:27,538 --> 00:12:29,331
+Let go!
+
+104
+00:12:30,833 --> 00:12:31,792
+Song Jiwoo.
+
+105
+00:12:33,002 --> 00:12:34,253
+That's your name, isn't it?
+
+106
+00:12:38,674 --> 00:12:39,800
+What do you plan to do?
+
+107
+00:12:41,886 --> 00:12:43,179
+Are you going to Choi Mujin?
+
+108
+00:12:46,348 --> 00:12:47,725
+Captain told me.
+
+109
+00:12:48,309 --> 00:12:49,351
+Did you let him go
+
+110
+00:12:50,186 --> 00:12:51,812
+so that you can kill him yourself?
+
+111
+00:12:53,481 --> 00:12:55,024
+That's right, so step aside.
+
+112
+00:12:58,402 --> 00:12:59,236
+No.
+
+113
+00:12:59,904 --> 00:13:00,946
+I'll stop you.
+
+114
+00:13:07,536 --> 00:13:08,621
+Let go!
+
+115
+00:13:08,704 --> 00:13:09,788
+Enough already!
+
+116
+00:13:09,872 --> 00:13:10,998
+Let go!
+
+117
+00:13:13,292 --> 00:13:14,752
+You know everything now.
+
+118
+00:13:14,835 --> 00:13:16,629
+You must know why I'm doing this!
+
+119
+00:13:18,714 --> 00:13:19,924
+I do.
+
+120
+00:13:21,509 --> 00:13:22,801
+That's why I'm stopping you.
+
+121
+00:13:23,677 --> 00:13:24,929
+No, you don't know
+
+122
+00:13:25,721 --> 00:13:27,223
+how I got here.
+
+123
+00:13:30,017 --> 00:13:33,103
+I threw away my future and my name
+to catch the asshole who killed my dad.
+
+124
+00:13:34,897 --> 00:13:37,107
+But I was fooled by him
+and even killed a person.
+
+125
+00:13:38,359 --> 00:13:40,736
+If I don't kill him,
+my life has no meaning.
+
+126
+00:13:48,369 --> 00:13:50,371
+Is that all your life is worth?
+
+127
+00:13:52,706 --> 00:13:54,124
+Stay out of it and leave.
+
+128
+00:14:02,091 --> 00:14:04,718
+How can I ignore you
+when you're driving toward sure death?
+
+129
+00:14:06,095 --> 00:14:08,639
+Even if you kill him,
+you'll be utterly destroyed.
+
+130
+00:14:08,722 --> 00:14:10,266
+Don't you get it?
+
+131
+00:14:10,349 --> 00:14:11,934
+I don't care. Uncuff me.
+
+132
+00:14:12,893 --> 00:14:13,936
+I do.
+
+133
+00:14:16,438 --> 00:14:18,148
+Uncuff me!
+
+134
+00:14:20,568 --> 00:14:21,569
+Uncuff me!
+
+135
+00:14:43,132 --> 00:14:43,966
+Get in here.
+
+136
+00:14:50,139 --> 00:14:54,101
+Get them! Go after them! Stop!
+
+137
+00:15:55,037 --> 00:15:56,163
+Hold on tight.
+
+138
+00:16:30,948 --> 00:16:31,907
+We lost her.
+
+139
+00:16:32,783 --> 00:16:34,952
+Another detective took her
+and they disappeared.
+
+140
+00:18:21,683 --> 00:18:23,018
+We came sooner than expected.
+
+141
+00:18:25,979 --> 00:18:26,980
+I told you we'd come
+
+142
+00:18:27,689 --> 00:18:28,690
+to the beach.
+
+143
+00:19:12,651 --> 00:19:15,863
+A friend who loves to surf
+rented this place long-term.
+
+144
+00:19:50,689 --> 00:19:51,773
+Let me see your wounds.
+
+145
+00:19:53,066 --> 00:19:54,109
+I'm fine.
+
+146
+00:19:59,656 --> 00:20:01,116
+Don't get me angry.
+
+147
+00:20:06,580 --> 00:20:07,456
+Sit down.
+
+148
+00:20:39,947 --> 00:20:42,157
+I started carrying a knife
+after my sister died.
+
+149
+00:20:45,744 --> 00:20:47,996
+I was determined to kill the bastard
+
+150
+00:20:49,706 --> 00:20:50,749
+if I ever found him.
+
+151
+00:21:05,055 --> 00:21:06,473
+Every night, I dreamt
+
+152
+00:21:08,016 --> 00:21:09,518
+of killing that faceless bastard.
+
+153
+00:21:12,729 --> 00:21:14,147
+And eventually,
+
+154
+00:21:15,023 --> 00:21:16,108
+my face changed.
+
+155
+00:21:22,698 --> 00:21:25,492
+Like a murderer consumed with rage.
+
+156
+00:21:31,999 --> 00:21:32,833
+I…
+
+157
+00:21:37,838 --> 00:21:39,339
+was stabbing myself.
+
+158
+00:21:46,263 --> 00:21:47,848
+Stop destroying yourself.
+
+159
+00:21:53,395 --> 00:21:54,479
+Stay still.
+
+160
+00:22:31,933 --> 00:22:33,852
+Don't struggle alone anymore.
+
+161
+00:22:36,855 --> 00:22:38,356
+You can lean on me anytime.
+
+162
+00:25:56,513 --> 00:25:59,057
+Choi Mujin put a tattoo on my chest.
+
+163
+00:26:03,228 --> 00:26:04,688
+And I burned it off.
+
+164
+00:26:16,783 --> 00:26:19,369
+You and I chose different paths.
+
+165
+00:26:29,004 --> 00:26:30,046
+Let's catch Choi Mujin
+
+166
+00:26:31,756 --> 00:26:32,757
+together.
+
+167
+00:26:38,555 --> 00:26:40,056
+It's what your father wanted.
+
+168
+00:26:40,974 --> 00:26:43,059
+Judging him by the law
+rather than killing him.
+
+169
+00:26:48,940 --> 00:26:52,110
+Your father wanted it so much
+that he was willing to sacrifice his life.
+
+170
+00:26:54,821 --> 00:26:56,239
+And you'll be the one to do it.
+
+171
+00:27:27,645 --> 00:27:31,941
+BOW RESTAURANT
+
+172
+00:27:32,025 --> 00:27:33,610
+-Sir.
+-Taeju!
+
+173
+00:27:34,235 --> 00:27:35,987
+-Where are the boys?
+-Not here yet.
+
+174
+00:27:36,863 --> 00:27:37,781
+Hello.
+
+175
+00:27:38,740 --> 00:27:40,700
+Pork belly
+
+176
+00:27:44,204 --> 00:27:45,413
+Sorry, Minjae!
+
+177
+00:27:45,497 --> 00:27:46,956
+Hey, scram.
+
+178
+00:27:48,124 --> 00:27:50,543
+Hey. Go home and study.
+
+179
+00:27:51,044 --> 00:27:53,546
+-What?
+-I want to join Dongcheon.
+
+180
+00:27:53,630 --> 00:27:55,006
+-Hey.
+-Take your bag and go.
+
+181
+00:27:55,090 --> 00:27:56,883
+-What grade are you in?
+-Pick this up and go.
+
+182
+00:27:56,966 --> 00:27:58,635
+-Let him talk.
+-What?
+
+183
+00:27:59,302 --> 00:28:00,845
+What do you mean? He's a kid.
+
+184
+00:28:00,929 --> 00:28:02,222
+Why do you want to join?
+
+185
+00:28:03,848 --> 00:28:04,724
+Well…
+
+186
+00:28:05,433 --> 00:28:07,060
+I want to be cool like you guys.
+
+187
+00:28:08,228 --> 00:28:09,396
+Gosh.
+
+188
+00:28:09,479 --> 00:28:10,480
+Are you smart?
+
+189
+00:28:11,439 --> 00:28:12,607
+Yes, I am.
+
+190
+00:28:12,690 --> 00:28:14,984
+Hey. Go home and study.
+
+191
+00:28:15,068 --> 00:28:16,027
+I mean it, Boss.
+
+192
+00:28:16,111 --> 00:28:19,781
+-You kids watch way too many movies.
+-Please accept me. I know I can do it.
+
+193
+00:28:19,864 --> 00:28:20,865
+Get over here.
+
+194
+00:28:49,060 --> 00:28:51,229
+Boss. Donghoon…
+
+195
+00:29:17,589 --> 00:29:18,423
+Dad.
+
+196
+00:29:19,424 --> 00:29:20,425
+Dad!
+
+197
+00:29:27,557 --> 00:29:28,391
+Dad.
+
+198
+00:29:30,059 --> 00:29:30,977
+Dad!
+
+199
+00:29:33,104 --> 00:29:34,314
+Jiwoo, don't come out!
+
+200
+00:29:35,064 --> 00:29:36,191
+Don't come out yet.
+
+201
+00:29:37,233 --> 00:29:38,568
+Open the door!
+
+202
+00:29:40,904 --> 00:29:41,905
+I…
+
+203
+00:29:43,281 --> 00:29:44,532
+have never…
+
+204
+00:29:47,160 --> 00:29:49,746
+betrayed someone who trusted me.
+
+205
+00:29:52,081 --> 00:29:54,918
+Why do I keep getting betrayed?
+
+206
+00:30:01,841 --> 00:30:02,759
+At least…
+
+207
+00:30:04,344 --> 00:30:06,638
+She has a reason to kill me.
+
+208
+00:30:09,974 --> 00:30:11,184
+That's why…
+
+209
+00:30:13,061 --> 00:30:14,354
+That's why…
+
+210
+00:30:16,105 --> 00:30:17,398
+she should've come to me.
+
+211
+00:30:26,199 --> 00:30:27,951
+Isn't that right, Donghoon?
+
+212
+00:30:29,661 --> 00:30:31,037
+She should've come to me.
+
+213
+00:30:35,041 --> 00:30:36,793
+She should've come to me.
+
+214
+00:30:38,837 --> 00:30:40,630
+The police have requested
+an arrest warrant.
+
+215
+00:30:41,548 --> 00:30:42,674
+You must flee.
+
+216
+00:30:43,383 --> 00:30:46,135
+They say they have a strong witness.
+It's probably Detective Oh.
+
+217
+00:30:46,928 --> 00:30:47,887
+You should flee.
+
+218
+00:30:53,184 --> 00:30:55,812
+You said she would come to kill you.
+
+219
+00:30:56,813 --> 00:30:57,814
+Exactly.
+
+220
+00:30:58,857 --> 00:31:00,692
+She should've come to me.
+
+221
+00:31:03,027 --> 00:31:04,237
+She should've
+
+222
+00:31:05,446 --> 00:31:06,573
+come to me!
+
+223
+00:31:10,118 --> 00:31:12,036
+Going back to the police is betrayal.
+
+224
+00:31:17,417 --> 00:31:18,251
+Sir.
+
+225
+00:31:26,551 --> 00:31:29,137
+Ever since I saved her
+from dying on the street,
+
+226
+00:31:29,220 --> 00:31:30,388
+her life belonged to me.
+
+227
+00:31:31,931 --> 00:31:32,849
+You need to stop--
+
+228
+00:31:32,932 --> 00:31:34,392
+No!
+
+229
+00:31:36,603 --> 00:31:37,979
+I can't stop.
+
+230
+00:31:39,731 --> 00:31:41,983
+It's not something I can just stop midway.
+
+231
+00:31:46,446 --> 00:31:48,823
+It won't end until one of us dies.
+
+232
+00:31:51,868 --> 00:31:53,202
+Either die…
+
+233
+00:31:56,664 --> 00:31:57,957
+or kill.
+
+234
+00:32:01,252 --> 00:32:02,378
+So, leave.
+
+235
+00:32:04,464 --> 00:32:05,632
+Leave!
+
+236
+00:33:20,456 --> 00:33:21,332
+Jiwoo.
+
+237
+00:33:23,251 --> 00:33:24,794
+Even if I'm not around,
+
+238
+00:33:25,962 --> 00:33:28,923
+be happy and live a good life, okay?
+
+239
+00:34:37,283 --> 00:34:38,743
+You thought I left, didn't you?
+
+240
+00:34:40,578 --> 00:34:41,412
+I got scared.
+
+241
+00:34:43,289 --> 00:34:44,373
+"Don't be scared.
+
+242
+00:34:44,916 --> 00:34:46,292
+We're cops."
+
+243
+00:34:55,343 --> 00:34:56,427
+Let's go now.
+
+244
+00:35:34,340 --> 00:35:35,508
+Where should we go?
+
+245
+00:35:36,467 --> 00:35:37,844
+Far away from here.
+
+246
+00:35:38,803 --> 00:35:40,388
+Dongcheon is finished.
+
+247
+00:35:41,097 --> 00:35:42,014
+Yes, ma'am.
+
+248
+00:36:13,921 --> 00:36:15,089
+It'll be very hard.
+
+249
+00:36:16,465 --> 00:36:18,759
+The entire world will condemn you.
+
+250
+00:36:20,136 --> 00:36:21,846
+And you'll be incarcerated.
+
+251
+00:36:26,726 --> 00:36:27,602
+I know.
+
+252
+00:36:31,731 --> 00:36:32,940
+I'm prepared.
+
+253
+00:36:40,364 --> 00:36:41,908
+Whatever you go through,
+
+254
+00:36:43,618 --> 00:36:45,077
+I'll be by your side.
+
+255
+00:38:08,286 --> 00:38:09,287
+Hey!
+
+256
+00:38:09,829 --> 00:38:11,080
+Pildo!
+
+257
+00:38:12,873 --> 00:38:14,166
+Jeon Pildo!
+
+258
+00:38:18,254 --> 00:38:19,338
+What happened?
+
+259
+00:39:02,506 --> 00:39:03,799
+Choi Mujin.
+
+260
+00:39:03,883 --> 00:39:05,134
+We can catch him.
+
+261
+00:39:40,586 --> 00:39:41,587
+Open the door.
+
+262
+00:39:58,312 --> 00:39:59,313
+Hey!
+
+263
+00:40:57,371 --> 00:40:59,582
+-Where is that bitch?
+-Hurry and find her.
+
+264
+00:44:06,018 --> 00:44:07,102
+You look tired.
+
+265
+00:44:08,437 --> 00:44:09,605
+It's bearable.
+
+266
+00:44:11,607 --> 00:44:13,442
+I still have enough energy to kill you.
+
+267
+00:44:21,742 --> 00:44:23,619
+Sure. Of course.
+
+268
+00:44:29,625 --> 00:44:31,210
+Donghoon was weak.
+
+269
+00:44:33,629 --> 00:44:35,756
+He had several chances to kill me,
+
+270
+00:44:36,674 --> 00:44:38,050
+but he lacked the courage.
+
+271
+00:44:41,553 --> 00:44:43,180
+He was born to be prey.
+
+272
+00:44:52,981 --> 00:44:54,316
+Himself,
+
+273
+00:44:55,275 --> 00:44:56,402
+his daughter,
+
+274
+00:44:57,694 --> 00:44:58,529
+me…
+
+275
+00:45:01,448 --> 00:45:04,535
+So weak he made
+everyone around him miserable.
+
+276
+00:45:11,458 --> 00:45:12,626
+But you were different.
+
+277
+00:45:14,670 --> 00:45:16,130
+You acted without fear.
+
+278
+00:45:20,217 --> 00:45:21,135
+So why?
+
+279
+00:45:24,221 --> 00:45:26,390
+Haven't you been waiting for this moment?
+
+280
+00:45:27,766 --> 00:45:28,767
+So why?
+
+281
+00:45:30,644 --> 00:45:32,062
+Why did you hesitate?
+
+282
+00:45:54,084 --> 00:45:55,461
+That's right, I hesitated.
+
+283
+00:45:59,465 --> 00:46:01,425
+Because I wanted to live
+like a human being.
+
+284
+00:46:09,141 --> 00:46:12,019
+You asked if I wanted revenge
+regardless of the price.
+
+285
+00:46:13,228 --> 00:46:15,564
+I didn't know what you meant back then.
+
+286
+00:46:19,067 --> 00:46:20,068
+But I do now.
+
+287
+00:46:24,031 --> 00:46:26,325
+The price of revenge is
+becoming a monster.
+
+288
+00:46:27,534 --> 00:46:28,952
+A monster like you.
+
+289
+00:46:42,341 --> 00:46:43,175
+That's right.
+
+290
+00:46:47,179 --> 00:46:48,597
+You're a lot like me.
+
+291
+00:46:51,016 --> 00:46:52,100
+Can you become…
+
+292
+00:46:55,395 --> 00:46:56,396
+a monster?
+
+293
+00:47:00,400 --> 00:47:01,610
+Because I hesitated,
+
+294
+00:47:04,446 --> 00:47:07,074
+another person precious to me died.
+
+295
+00:47:11,537 --> 00:47:13,163
+Someone who understood my pain.
+
+296
+00:47:15,290 --> 00:47:17,751
+The one person I could lean on.
+
+297
+00:47:26,718 --> 00:47:27,928
+I'll become…
+
+298
+00:47:31,390 --> 00:47:32,349
+a monster.
+
+299
+00:47:36,812 --> 00:47:40,440
+And I'll watch you closely
+as you take your last breath.
+
+300
+00:48:16,268 --> 00:48:17,769
+Can you kill me like that?
+
+301
+00:48:22,691 --> 00:48:23,650
+Good.
+
+302
+00:49:32,052 --> 00:49:33,095
+Get up.
+
+303
+00:49:34,721 --> 00:49:35,597
+That's right.
+
+304
+00:49:45,524 --> 00:49:46,483
+Get up!
+
+305
+00:49:49,861 --> 00:49:51,154
+Stab me!
+
+306
+00:49:56,368 --> 00:49:57,285
+Again.
+
+307
+00:49:58,954 --> 00:50:00,038
+That's right.
+
+308
+00:50:00,956 --> 00:50:02,082
+That's right.
+
+309
+00:50:04,376 --> 00:50:05,711
+You have to get up.
+
+310
+00:50:10,257 --> 00:50:13,176
+It won't end until one of us dies.
+
+311
+00:51:02,225 --> 00:51:03,351
+The temple.
+
+312
+00:51:05,645 --> 00:51:06,688
+Upper lip.
+
+313
+00:51:09,065 --> 00:51:10,025
+Chin.
+
+314
+00:51:11,443 --> 00:51:12,402
+Solar plexus.
+
+315
+00:51:14,571 --> 00:51:15,655
+Stab me.
+
+316
+00:51:19,326 --> 00:51:20,368
+Stab me.
+
+317
+00:51:23,121 --> 00:51:24,247
+Stab me!
+
+318
+00:51:27,292 --> 00:51:28,210
+Stab me!
+
+319
+00:51:39,221 --> 00:51:40,597
+This is where it ends for you.
+
+320
+00:51:45,268 --> 00:51:46,144
+Accept it.
+
+321
+00:51:47,938 --> 00:51:48,814
+You
+
+322
+00:51:49,898 --> 00:51:51,149
+cannot become a monster.
+
+323
+00:54:30,016 --> 00:54:33,895
+DECEASED, KIM JEONGA
+
+324
+00:55:00,755 --> 00:55:03,883
+TO DAD, FROM SONG JIWOO
+
+325
+00:55:08,096 --> 00:55:13,101
+SONG JOONSU AND KIM JEONGA'S FAMILY GRAVE
+
+326
+00:55:50,221 --> 00:55:56,186
+JEON FAMILY GRAVE:
+JEON PILDO, JEON DAEUN
+
+327
+00:57:08,258 --> 00:57:13,263
+Subtitle translation by: Jeong Lee
+
